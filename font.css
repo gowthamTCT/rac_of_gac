@@ -1,0 +1,17 @@
+h1{
+    font-family: 'poppins',sans-serif;
+    font-weight: 700;
+
+}
+.navtext{
+    font-family: 'roboto',sans-serif;
+    font-weight: 100;
+    color: white;
+    text-transform: capitalize;
+} 
+.topsec p{
+    font-family: 'poppins',sans-serif;
+    font-weight: 100;
+    color: #3918be;   
+    text-transform: capitalize;
+}

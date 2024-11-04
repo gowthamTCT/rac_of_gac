@@ -1,0 +1,67 @@
+body
+{
+    margin: 0;
+    padding: 0;
+
+}
+h1{
+    padding: 0;
+    margin: 0;
+}
+.hero1{
+    background:linear-gradient(to bottom right, #9b0fff,#3918be) ;
+    height: 100vh;
+    width: 100%;
+}
+.topsec{
+height: 30px;
+width: 100%;
+position: relative;
+top: 1%;
+display: flex;
+align-items: center;
+justify-content: space-between;
+background-color: #ffff;
+padding: 0;
+margin: 0;
+
+}
+.topsec p{
+    margin: 20px;
+}
+
+.nav
+{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px;
+}
+.backcolor{
+    background-color: #fff;
+    position: relative;
+    width: 100%;
+    height: 20rem;
+    top: 30%;
+}
+.img-sec{
+    display: flex;
+    justify-content: center;
+    position:  relative;
+    width: 100%;
+    height: 28rem;
+    margin-top: -15%;
+    
+   
+}
+.img-sec img{
+    border: 10px solid #fff;
+}
+ 
+.about2{
+    background-color: #fff;
+    height: 100vh;
+    width: 100%; 
+}
+ 
+ 
